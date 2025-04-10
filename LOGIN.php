@@ -25,7 +25,7 @@
     </header>
     <main class="container mx-auto p-4 flex justify-center items-center min-h-screen">
         <div class="bg-white p-6 rounded-lg shadow-lg w-full max-w-md">
-            <h2 class="text-2xl font-bold mb-4 text-center">Đăng Nhập</h2>
+            <h2 class="text-2xl font-bold mb-4 text-center">Đăng Nhậpp</h2>
             <form action="login.php" method="post">
                 <div class="mb-4">
                     <label class="block text-gray-700 text-sm font-bold mb-2" for="uname">Tên Đăng Nhập</label>
@@ -50,7 +50,7 @@
     </main>
     <footer class="bg-green-600 text-white p-4 mt-6">
         <div class="container mx-auto text-center">
-            <p>© 2023 Nhà Hàng Buffet. All rights reserved.</p>
+            <p>© 2023 Nhà Hàng Buffet All rights reserved.</p>
         </div>
     </footer>
 </body>
