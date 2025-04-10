@@ -212,7 +212,7 @@
 				<div class="col-md-6 col-lg-3">
 					<div class="ftco-footer-widget mb-4">
 						<h2 class="ftco-heading-2">Bản tin</h2>
-						<p>Với hàng trăm món ăn từ các nền văn hóa khác nhau, bạn sẽ được thỏa sức khám phá và thưởng thức những hương vị độc đáo. </p>
+						<p>Với hàng trăm món ăn từ các nền văn hóa khác nhau, bạn sẽ được thỏa sức khám phá và thưởng thức những hương vị độc đáo </p>
 						
 					</div>
 				</div>
